@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: gilroy;
+  src: url(Gilroy-Light.otf);
+}
+*{
+  font-family:Gilroy ;
+}
+::selection{
+  color: yellow;
+}
